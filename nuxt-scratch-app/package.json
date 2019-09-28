@@ -1,0 +1,17 @@
+{
+  "name": "nuxt-scratch-app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nuxt start",
+    "dev": "nuxt",
+    "build": "nuxt build"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "nuxt": "^2.9.2"
+  }
+}
